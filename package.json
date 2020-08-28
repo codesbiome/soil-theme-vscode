@@ -1,0 +1,21 @@
+{
+  "name": "soil-theme-vscode",
+  "displayName": "Soil Theme",
+  "description": "A relaxing theme for Visual Studio Code to put crazy ideas into existence",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soil Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soil-color-theme.json"
+      }
+    ]
+  }
+}
