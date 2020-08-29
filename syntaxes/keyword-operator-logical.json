@@ -1,0 +1,15 @@
+{
+  "scopeName": "keyword.operator.logical",
+  "injectionSelector": "L:source.php -comment -string logical.operator",
+  "patterns": [
+    {
+      "include": "#keyword-operator-logical"
+    }
+  ],
+  "repository": {
+    "keyword-operator-logical": {
+      "match": "(as)",
+      "name": "keyword.operator.logical.soil"
+    }
+  }
+}
