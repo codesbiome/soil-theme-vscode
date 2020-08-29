@@ -83,7 +83,8 @@
       "scope": [
         "punctuation.definition.variable",
         "punctuation.definition.string",
-        "keyword.operator.heredoc"
+        "keyword.operator.heredoc",
+        "constant.other.color.rgb-value.hex"
       ],
       "settings": {
         "foreground": "#3a9c93"
@@ -96,7 +97,8 @@
         "storage.type",
         "storage.modifier",
         "support.function",
-        "keyword.other"
+        "keyword.other",
+        "source.css keyword.operator.logical"
       ],
       "settings": {
         "foreground": "#cf7c9f"
@@ -111,7 +113,11 @@
     },
     {
       "name": "Namespace",
-      "scope": ["entity.name.type.namespace", "support.other.namespace"],
+      "scope": [
+        "entity.name.type.namespace",
+        "support.other.namespace",
+        "meta.attribute.name entity.other.attribute-name"
+      ],
       "settings": {
         "foreground": "#d39a69"
       }
@@ -141,7 +147,8 @@
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
         "keyword.other.template",
-        "keyword.other.substitution"
+        "keyword.other.substitution",
+        "support.type.vendored.property-name"
       ],
       "settings": {
         "foreground": "#b89b8a"
@@ -167,7 +174,9 @@
         "keyword.other.special-method",
         "meta.attribute.data-x entity.other.attribute-name",
         "meta.attribute.unrecognized entity.other.attribute-name",
-        "meta.tag.metadata.doctype entity.other.attribute-name"
+        "meta.tag.metadata.doctype entity.other.attribute-name",
+        "entity.other.attribute-name.id",
+        "entity.other.attribute-name.id punctuation.definition.entity"
       ],
       "settings": {
         "foreground": "#c1a860"
@@ -189,7 +198,7 @@
     },
     {
       "name": "Number",
-      "scope": ["constant.numeric", "variable.parameter", "keyword.other.unit"],
+      "scope": ["constant.numeric", "variable.parameter"],
       "settings": {
         "foreground": "#de7e50"
       }
@@ -201,7 +210,8 @@
         "support.constant",
         "constant.character",
         "constant.escape",
-        "constant.other"
+        "constant.other",
+        "keyword.other.unit"
       ],
       "settings": {
         "foreground": "#cf7c7c"
@@ -256,7 +266,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#92B4B1"
       }
     },
     {
