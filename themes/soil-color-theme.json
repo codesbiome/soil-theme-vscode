@@ -9,6 +9,21 @@
     "sideBarTitle.foreground": "#bbbbbb"
   },
   "tokenColors": [
+    // Soil grammar scopes
+    {
+      "name": "Soil keyword Operator Logical",
+      "scope": "keyword.operator.logical.soil",
+      "settings": {
+        "foreground": "#CF7C7C"
+      }
+    },
+    {
+      "name": "Soil Function Param Type",
+      "scope": "function.parameter.type.soil",
+      "settings": {
+        "foreground": "#CF7C9F"
+      }
+    },
     {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
@@ -55,14 +70,21 @@
     },
     {
       "name": "Punctuation Section Embed",
-      "scope": ["punctuation.section.embedded"],
+      "scope": [
+        "punctuation.section.embedded",
+        "meta.tag.metadata.doctype entity.name.tag"
+      ],
       "settings": {
         "foreground": "#dc7a7a"
       }
     },
     {
       "name": "Punctuation Defination Variable",
-      "scope": ["punctuation.definition.variable"],
+      "scope": [
+        "punctuation.definition.variable",
+        "punctuation.definition.string",
+        "keyword.operator.heredoc"
+      ],
       "settings": {
         "foreground": "#3a9c93"
       }
@@ -144,7 +166,8 @@
         "variable.function",
         "keyword.other.special-method",
         "meta.attribute.data-x entity.other.attribute-name",
-        "meta.attribute.unrecognized entity.other.attribute-name"
+        "meta.attribute.unrecognized entity.other.attribute-name",
+        "meta.tag.metadata.doctype entity.other.attribute-name"
       ],
       "settings": {
         "foreground": "#c1a860"
@@ -208,7 +231,8 @@
         "meta.use.php",
         "markup.changed.git_gutter",
         "support.type.sys-types",
-        "meta.function.parameter.typehinted storage.type"
+        "meta.function.parameter.typehinted storage.type",
+        "meta.function storage.type"
       ],
       "settings": {
         "foreground": "#59ae8b"

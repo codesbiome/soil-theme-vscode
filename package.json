@@ -10,6 +10,24 @@
     "Themes"
   ],
   "contributes": {
+    "grammars": [
+      {
+        "path": "./syntaxes/function-params-type.json",
+        "scopeName": "function.parameter.type",
+        "injectTo": [
+          "source.php",
+          "text.html.php"
+        ]
+      },
+      {
+        "path": "./syntaxes/keyword-operator-logical.json",
+        "scopeName": "keyword.operator.logical",
+        "injectTo": [
+          "source.php",
+          "text.html.php"
+        ]
+      }
+    ],
     "themes": [
       {
         "label": "Soil Theme",

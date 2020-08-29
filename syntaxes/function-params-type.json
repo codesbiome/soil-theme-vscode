@@ -1,0 +1,15 @@
+{
+  "scopeName": "function.parameter.type",
+  "injectionSelector": "L:source meta.function.parameters",
+  "patterns": [
+    {
+      "include": "#function-parameter-type"
+    }
+  ],
+  "repository": {
+    "function-parameter-type": {
+      "match": "(bool|boolean|byte|char|double|float|int|long|short|string|void)",
+      "name": "function.parameter.type.soil"
+    }
+  }
+}
