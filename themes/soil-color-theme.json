@@ -2,14 +2,93 @@
   "name": "Soil Theme",
   "type": "dark",
   "colors": {
+    // Activity Bar
+    "activityBar.activeBackground": "#3f312891",
+    "activityBar.activeFocusBorder": "#ff0000",
+    "activityBar.activeBorder": "#b35118d8",
+    "activityBar.background": "#1c1c1c",
+    "activityBar.inactiveForeground": "#aca4906e",
+    "activityBar.foreground": "#aca490",
+    // Activity Bar Badge
+    "activityBarBadge.foreground": "#ffdeb4",
+    "activityBarBadge.background": "#b35118d8",
+    // Breadcrumb
+    "breadcrumb.background": "#2e2e2e",
+    // Editor
     "editor.background": "#222222",
     "editor.foreground": "#aca490",
+    "editor.inactiveSelectionBackground": "#3c3836b6",
+    "editor.lineHighlightBackground": "#2c2c2c",
+    "editor.selectionBackground": "#3c38369f",
+    "editor.selectionHighlightBackground": "#8f503d46",
+    "editor.wordHighlightBackground": "#3c38369f",
+    // Editor Bracket Match
+    "editorBracketMatch.border": "#423f3b",
+    "editorBracketMatch.background": "#363636",
+    // Editor Cursor
+    "editorCursor.foreground": "#ffb300da",
+    // Editor Group
+    "editorGroup.dropBackground": "#3c38369f",
+    // Editor Group Header
+    "editorGroupHeader.border": "#2e2e2e",
+    "editorGroupHeader.tabsBackground": "#1e1e1e",
+    // Editor Gutter
+    "editorGutter.background": "#222222",
+    // Editor Indent Guide
+    "editorIndentGuide.activeBackground": "#423f3b",
+    "editorIndentGuide.background": "#2e2d2d",
+    // Editor Line Number
+    "editorLineNumber.activeForeground": "#7fac38",
+    "editorLineNumber.foreground": "#928a83a2",
+    // List (Explorer)
+    "list.activeSelectionBackground": "#3f312891",
+    "list.activeSelectionForeground": "#aca490",
+    "list.inactiveFocusBackground": "#3f312891",
+    "list.inactiveSelectionBackground": "#3f312891",
+    "list.inactiveSelectionForeground": "#aca490",
+    "list.hoverBackground": "#2e2e2ec4",
+    // Mini Map
+    "minimap.selectionHighlight": "#8f503d71",
+    // Quick Open Menu Group (gosh this took a while to find)
+    "pickerGroup.foreground": "#b4926ce7",
+    // Status Bar
+    "statusBar.background": "#1e1e1e", // 1e1e1e
+    "statusBar.foreground": "#bbb8b896", // bbb8b896
+    "statusBar.debuggingBackground": "#b32f18d8",
+    "statusBar.debuggingForeground": "#ccb6b6ef",
+    // Status Bar Item
+    "statusBarItem.hoverBackground": "#2e2e2e",
+    "statusBarItem.activeBackground": "#353535",
+    // Sidebar
+    "sideBar.background": "#202020", // 262626 | 1f1f1f
+    "sideBar.border": "#2e2e2e",
+    "sideBar.foreground": "#8b8b8b",
+    // Sidebar Section Header
+    "sideBarSectionHeader.background": "#1c1c1c",
+    "sideBarSectionHeader.foreground": "#b4926ce7",
+    "sideBarSectionHeader.border": "#202020",
+    // Sidebar Title
+    "sideBarTitle.foreground": "#b4926ce7",
+    // Tab
+    "tab.activeBackground": "#2e2e2e",
+    "tab.activeForeground": "#b6b5b4",
+    "tab.inactiveBackground": "#1e1e1e",
+    "tab.inactiveForeground": "#bbb8b896",
+    "tab.hoverForeground": "#b6b5b4",
+    "tab.activeModifiedBorder": "#b47125a4",
+    // Title Bar
+    "titleBar.activeBackground": "#181818",
+    "titleBar.activeForeground": "#d3cac1a8",
+    "titleBar.inactiveBackground": "#181818",
+    "titleBar.inactiveForeground": "#d3cac1a8",
 
-    "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    // Other Globals
+    "focusBorder": "#2e2e2e00",
+    "selection.background": "#232733",
+    "gitDecoration.ignoredResourceForeground": "#aca4907a"
   },
   "tokenColors": [
-    // Soil grammar scopes
+    // Soil Grammar Scopes
     {
       "name": "Soil keyword Operator Logical",
       "scope": "keyword.operator.logical.soil",
@@ -24,6 +103,7 @@
         "foreground": "#CF7C9F"
       }
     },
+    // End Grammar Scopes
     {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
@@ -43,7 +123,7 @@
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#aca490"
       }
     },
     {
