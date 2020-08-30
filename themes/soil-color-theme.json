@@ -117,6 +117,15 @@
     // Status Bar Item
     "statusBarItem.hoverBackground": "#2e2e2e",
     "statusBarItem.activeBackground": "#353535",
+    // Symbol Icons
+    "symbolIcon.functionForeground": "#cf7c7c",
+    "symbolIcon.methodForeground": "#c1a860",
+    "symbolIcon.variableForeground": "#92b4b1",
+    "symbolIcon.constantForeground": "#cf7c7c",
+    "symbolIcon.classForeground": "#59ae8b",
+    "symbolIcon.fieldForeground": "#92b4b1",
+    "symbolIcon.propertyForeground": "#92b4b1",
+    "symbolIcon.interfaceForeground": "#3a9c93",
     // Tab
     "tab.activeBackground": "#2e2e2e",
     "tab.activeForeground": "#b6b5b4",
