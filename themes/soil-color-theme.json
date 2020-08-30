@@ -107,6 +107,20 @@
     // Panel Title
     "panelTitle.activeBorder": "#b35118d8",
     "panelTitle.activeForeground": "#aca490",
+    // Peek View
+    "peekView.border": "#b35118d8",
+    // Peek View Editor
+    "peekViewEditor.background": "#33312e",
+    "peekViewEditor.matchHighlightBackground": "#8f503d46",
+    // Peek View Result
+    "peekViewResult.background": "#1c1c1c",
+    "peekViewResult.fileForeground": "#a3a3a3",
+    "peekViewResult.lineForeground": "#a3a3a3",
+    "peekViewResult.selectionBackground": "#3f312891",
+    "peekViewResult.selectionForeground": "#aca490",
+    // Peek View Title Description
+    "peekViewTitleDescription.foreground": "#de7e50",
+    "peekViewTitleLabel.foreground": "#aca490",
     // Quick Open Menu Group (gosh this took a while to find)
     "pickerGroup.foreground": "#de7e50",
     // Problems Error Icon
