@@ -42,6 +42,8 @@
     "editorGroupHeader.tabsBackground": "#1e1e1e",
     // Editor Gutter
     "editorGutter.background": "#222222",
+    // Editor Hint
+    "editorHint.foreground": "#9c9c9c",
     // Editor Indent Guide
     "editorIndentGuide.activeBackground": "#423f3b",
     "editorIndentGuide.background": "#2e2d2d",
@@ -218,7 +220,11 @@
     },
     {
       "name": "Variables",
-      "scope": ["variable", "string constant.other.placeholder"],
+      "scope": [
+        "variable",
+        "string constant.other.placeholder",
+        "variable.other.object"
+      ],
       "settings": {
         "foreground": "#92b4b1"
       }
@@ -268,7 +274,8 @@
         "punctuation.definition.variable",
         "punctuation.definition.string",
         "keyword.operator.heredoc",
-        "constant.other.color.rgb-value.hex"
+        "constant.other.color.rgb-value.hex",
+        "variable.other.property"
       ],
       "settings": {
         "foreground": "#3a9c93"
@@ -300,7 +307,8 @@
       "scope": [
         "entity.name.type.namespace",
         "support.other.namespace",
-        "meta.attribute.name entity.other.attribute-name"
+        "meta.attribute.name entity.other.attribute-name",
+        "keyword.operator.new"
       ],
       "settings": {
         "foreground": "#d39a69"
@@ -335,7 +343,7 @@
         "support.type.vendored.property-name"
       ],
       "settings": {
-        "foreground": "#b89b8a"
+        "foreground": "#9c9c9c"
       }
     },
     {
@@ -368,16 +376,16 @@
     },
     {
       "name": "Block Level Variables",
-      "scope": ["meta.block variable.other"],
+      "scope": ["meta.block variable.other", "meta.arrow variable.parameter"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#92b4b1"
       }
     },
     {
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#92b4b1"
       }
     },
     {
