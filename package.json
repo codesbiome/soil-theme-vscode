@@ -2,13 +2,24 @@
   "name": "soil-theme-vscode",
   "displayName": "Soil Theme",
   "description": "A relaxing theme for Visual Studio Code to put crazy ideas into existence",
-  "version": "0.0.1",
-  "publisher": "Gary",
+  "version": "1.0.0",
+  "publisher": "codesbiome",
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codesbiome/soil-theme-vscode"
+  },
   "engines": {
     "vscode": "^1.48.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "skin",
+    "dark theme",
+    "dark"
   ],
   "contributes": {
     "grammars": [
