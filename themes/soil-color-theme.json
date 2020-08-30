@@ -687,7 +687,10 @@
     },
     {
       "name": "Markdown - Markup Raw Inline",
-      "scope": ["text.html.markdown markup.inline.raw.markdown"],
+      "scope": [
+        "text.html.markdown markup.inline.raw.markdown",
+        "markup.inline.raw.string"
+      ],
       "settings": {
         "foreground": "#cf7c9f"
       }
@@ -695,7 +698,8 @@
     {
       "name": "Markdown - Markup Raw Inline Punctuation",
       "scope": [
-        "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
+        "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
+        "markup.inline.raw punctuation.definition.raw"
       ],
       "settings": {
         "foreground": "#9c9c9c"
@@ -824,6 +828,13 @@
       "settings": {
         "fontStyle": "bold",
         "foreground": "#9c9c9c"
+      }
+    },
+    {
+      "name": "Markdown - List",
+      "scope": ["markup.list punctuation.definition.list"],
+      "settings": {
+        "foreground": "#3a9c93"
       }
     }
   ]
