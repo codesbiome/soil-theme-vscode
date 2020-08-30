@@ -175,6 +175,8 @@
     // Text Link
     "textLink.activeForeground": "#df793ed8",
     "textLink.foreground": "#d3723bd8",
+    // Text Preformat
+    "textPreformat.foreground": "#cf7c7c",
     // Title Bar
     "titleBar.activeBackground": "#181818",
     "titleBar.activeForeground": "#d3cac1a8",
