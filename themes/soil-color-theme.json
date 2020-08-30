@@ -4,11 +4,11 @@
   "colors": {
     // Activity Bar
     "activityBar.activeBackground": "#3f312891",
-    "activityBar.activeFocusBorder": "#ff0000",
     "activityBar.activeBorder": "#b35118d8",
     "activityBar.background": "#1c1c1c",
     "activityBar.inactiveForeground": "#aca4906e",
     "activityBar.foreground": "#aca490",
+    "activityBar.dropBorder": "#b35118d8",
     // Activity Bar Badge
     "activityBarBadge.foreground": "#ffdeb4",
     "activityBarBadge.background": "#b35118d8",
@@ -40,6 +40,12 @@
     // Editor Line Number
     "editorLineNumber.activeForeground": "#7fac38",
     "editorLineNumber.foreground": "#928a83a2",
+    // Editor Suggest Widget
+    "editorSuggestWidget.background": "#1c1c1c",
+    "editorSuggestWidget.border": "#2e2e2e",
+    "editorSuggestWidget.foreground": "#aca490",
+    "editorSuggestWidget.highlightForeground": "#c58961",
+    "editorSuggestWidget.selectedBackground": "#3f312891",
     // List (Explorer)
     "list.activeSelectionBackground": "#3f312891",
     "list.activeSelectionForeground": "#aca490",
@@ -49,8 +55,23 @@
     "list.hoverBackground": "#2e2e2ec4",
     // Mini Map
     "minimap.selectionHighlight": "#8f503d71",
+    // Mini Map Slider
+    "minimapSlider.background": "#5d3c2b5d",
+    "minimapSlider.hoverBackground": "#5f3a287e",
+    "minimapSlider.activeBackground": "#7540257e",
+    // Panel
+    "panel.dropBorder": "#b35118d8",
+    // Panel Title
+    "panelTitle.activeBorder": "#b35118d8",
+    "panelTitle.activeForeground": "#aca490",
     // Quick Open Menu Group (gosh this took a while to find)
     "pickerGroup.foreground": "#b4926ce7",
+    // Scroll Bar
+    "scrollbar.shadow": "#111111b2",
+    // Scroll Bar Slider
+    "scrollbarSlider.background": "#5d3c2b5d",
+    "scrollbarSlider.hoverBackground": "#5f3a287e",
+    "scrollbarSlider.activeBackground": "#7540257e",
     // Status Bar
     "statusBar.background": "#1e1e1e", // 1e1e1e
     "statusBar.foreground": "#bbb8b896", // bbb8b896
@@ -81,8 +102,11 @@
     "titleBar.activeForeground": "#d3cac1a8",
     "titleBar.inactiveBackground": "#181818",
     "titleBar.inactiveForeground": "#d3cac1a8",
+    // Widget
+    "widget.shadow": "#111111b2",
 
     // Other Globals
+    "foreground": "#aca490d3",
     "focusBorder": "#2e2e2e00",
     "selection.background": "#232733",
     "gitDecoration.ignoredResourceForeground": "#aca4907a"
