@@ -3,6 +3,7 @@
   "displayName": "Soil Theme",
   "description": "A relaxing theme for Visual Studio Code to put crazy ideas into existence",
   "version": "0.0.1",
+  "publisher": "Gary",
   "engines": {
     "vscode": "^1.48.0"
   },
