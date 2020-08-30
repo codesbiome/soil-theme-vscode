@@ -83,14 +83,16 @@
     "scrollbarSlider.background": "#6d46335d",
     "scrollbarSlider.hoverBackground": "#6d442c8c",
     "scrollbarSlider.activeBackground": "#b351188c",
-    // Status Bar
-    "statusBar.background": "#1e1e1e", // 1e1e1e
-    "statusBar.foreground": "#bbb8b896", // bbb8b896
-    "statusBar.debuggingBackground": "#b32f18d8",
-    "statusBar.debuggingForeground": "#ccb6b6ef",
-    // Status Bar Item
-    "statusBarItem.hoverBackground": "#2e2e2e",
-    "statusBarItem.activeBackground": "#353535",
+    // Settings
+    "settings.checkboxBackground": "#181818",
+    "settings.checkboxForeground": "#ff7c30d8",
+    "settings.checkboxBorder": "#2e2e2e",
+    "settings.dropdownBackground": "#181818",
+    "settings.dropdownBorder": "#2e2e2e",
+    "settings.dropdownForeground": "#b8b8b8",
+    "settings.dropdownListBorder": "#333333",
+    "settings.headerForeground": "#b4926ce7",
+    "settings.modifiedItemIndicator": "#b35118d8",
     // Sidebar
     "sideBar.background": "#202020", // 262626 | 1f1f1f
     "sideBar.border": "#2e2e2e",
@@ -101,6 +103,14 @@
     "sideBarSectionHeader.border": "#202020",
     // Sidebar Title
     "sideBarTitle.foreground": "#b4926ce7",
+    // Status Bar
+    "statusBar.background": "#1e1e1e", // 1e1e1e
+    "statusBar.foreground": "#bbb8b896", // bbb8b896
+    "statusBar.debuggingBackground": "#b32f18d8",
+    "statusBar.debuggingForeground": "#ccb6b6ef",
+    // Status Bar Item
+    "statusBarItem.hoverBackground": "#2e2e2e",
+    "statusBarItem.activeBackground": "#353535",
     // Tab
     "tab.activeBackground": "#2e2e2e",
     "tab.activeForeground": "#b6b5b4",
