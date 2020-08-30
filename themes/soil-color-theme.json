@@ -63,6 +63,13 @@
     "editorSuggestWidget.foreground": "#aca490",
     "editorSuggestWidget.highlightForeground": "#c58961",
     "editorSuggestWidget.selectedBackground": "#3f312891",
+    // Git Decoration
+    "gitDecoration.modifiedResourceForeground": "#c1a960df",
+    "gitDecoration.untrackedResourceForeground": "#6ec07cde",
+    "gitDecoration.addedResourceForeground": "#3a9c93", // 3a9c93
+    "gitDecoration.deletedResourceForeground": "#e26a6ae1",
+    "gitDecoration.conflictingResourceForeground": "#df6a9bf1",
+    "gitDecoration.submoduleResourceForeground": "#699bdb",
     // Input
     "input.background": "#3b3b3b",
     "input.foreground": "#b8b8b8",
@@ -121,7 +128,7 @@
     // Sidebar
     "sideBar.background": "#202020", // 262626 | 1f1f1f
     "sideBar.border": "#2e2e2e",
-    "sideBar.foreground": "#8b8b8b",
+    "sideBar.foreground": "#979797",
     // Sidebar Section Header
     "sideBarSectionHeader.background": "#1c1c1c",
     "sideBarSectionHeader.foreground": "#b4926ce7",
