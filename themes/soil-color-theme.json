@@ -46,6 +46,10 @@
     "editorSuggestWidget.foreground": "#aca490",
     "editorSuggestWidget.highlightForeground": "#c58961",
     "editorSuggestWidget.selectedBackground": "#3f312891",
+    // Input
+    "input.background": "#3d3d3d",
+    "input.foreground": "#b8b8b8",
+    "input.placeholderForeground": "#b8b8b89b",
     // List (Explorer)
     "list.activeSelectionBackground": "#3f312891",
     "list.activeSelectionForeground": "#aca490",
