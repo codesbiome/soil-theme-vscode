@@ -254,7 +254,7 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#cf7c7c"
       }
     },
     // Custom Color Changes
@@ -289,7 +289,8 @@
         "punctuation.definition.string",
         "keyword.operator.heredoc",
         "constant.other.color.rgb-value.hex",
-        "variable.other.property"
+        "variable.other.property",
+        "meta.return.type entity.name"
       ],
       "settings": {
         "foreground": "#3a9c93"
@@ -404,7 +405,7 @@
     },
     {
       "name": "Number",
-      "scope": ["constant.numeric", "variable.parameter"],
+      "scope": ["constant.numeric"],
       "settings": {
         "foreground": "#de7e50"
       }
