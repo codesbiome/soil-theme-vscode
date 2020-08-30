@@ -20,6 +20,11 @@
     // Button
     "button.background": "#b35118d8",
     "button.foreground": "#ffffffbe",
+    // Dropdown
+    "dropdown.foreground": "#aca490",
+    "dropdown.background": "#181818",
+    "dropdown.border": "#333333",
+    "dropdown.listBackground": "#181818",
     // Editor
     "editor.background": "#222222",
     "editor.foreground": "#aca490",
@@ -66,10 +71,12 @@
     "list.activeSelectionBackground": "#3f312891",
     "list.activeSelectionForeground": "#aca490",
     "list.errorForeground": "#cf7c7c",
+    "list.focusBackground": "#77574391",
+    "list.focusForeground": "#aca490",
+    "list.hoverBackground": "#2e2e2ec4",
     "list.inactiveFocusBackground": "#3f312891",
     "list.inactiveSelectionBackground": "#3f312891",
     "list.inactiveSelectionForeground": "#aca490",
-    "list.hoverBackground": "#2e2e2ec4",
     "list.warningForeground": "#d39a69",
     // Menu
     "menu.background": "#181818",
@@ -444,7 +451,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#59ae8b"
       }
     },
     {
