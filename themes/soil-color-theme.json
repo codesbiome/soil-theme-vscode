@@ -12,8 +12,14 @@
     // Activity Bar Badge
     "activityBarBadge.foreground": "#ffdeb4",
     "activityBarBadge.background": "#b35118d8",
+    // Badge
+    "badge.background": "#b35118d8",
+    "badge.foreground": "#ffffffbe",
     // Breadcrumb
     "breadcrumb.background": "#2e2e2e",
+    // Button
+    "button.background": "#b35118d8",
+    "button.foreground": "#ffffffbe",
     // Editor
     "editor.background": "#222222",
     "editor.foreground": "#aca490",
@@ -76,7 +82,7 @@
     "panelTitle.activeBorder": "#b35118d8",
     "panelTitle.activeForeground": "#aca490",
     // Quick Open Menu Group (gosh this took a while to find)
-    "pickerGroup.foreground": "#b4926ce7",
+    "pickerGroup.foreground": "#d3723bd8",
     // Scroll Bar
     "scrollbar.shadow": "#111111b2",
     // Scroll Bar Slider
@@ -139,6 +145,9 @@
     "terminal.ansiBrightWhite": "#c0b699",
     // Terminal Cursor
     "terminalCursor.foreground": "#ffb300da",
+    // Text Link
+    "textLink.activeForeground": "#df793ed8",
+    "textLink.foreground": "#d3723bd8",
     // Title Bar
     "titleBar.activeBackground": "#181818",
     "titleBar.activeForeground": "#d3cac1a8",
