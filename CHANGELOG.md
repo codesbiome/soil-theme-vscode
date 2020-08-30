@@ -1,7 +1,38 @@
 # Change Log
 
-All notable changes to the "soil-theme-vscode" extension will be documented in this file.
+All notable changes to the "soil-theme-vscode" extension.
 
-## [Unreleased]
+### 1.0.0
 
-- Initial release
+- Activity bar colors
+- Activity bar badge colors
+- Badge colors
+- Breadcrumb colors
+- Button colors
+- Dropdown colors
+- Editor colors
+- Bracket Match colors
+- Cursor colors
+- Error colors
+- Group Header colors
+- Hint colors
+- Line Number colors
+- Link colors
+- Overview colors
+- Suggest Widget colors
+- Git Decoration colors
+- Input Feild colors
+- List (Explorer) colors
+- Menu colors
+- Minimap colors
+- Minimap Slider colors
+- Panel colors
+- Peekview Editor colors
+- Scrollbar colors
+- Settings colors
+- Sidebar colors
+- Statusbar colors
+- Symbol Icon colors
+- Tab colors
+- Terminal colors
+- Title Bar colors
