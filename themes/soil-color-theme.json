@@ -55,6 +55,8 @@
     // Editor Line Number
     "editorLineNumber.activeForeground": "#7fac38",
     "editorLineNumber.foreground": "#928a83a2",
+    // Editor Link
+    "editorLink.activeForeground": "#3a9c93",
     // Editor Overview (Scrollbar)
     "editorOverviewRuler.errorForeground": "#8a4848",
     // Editor Suggest Widget
@@ -80,6 +82,7 @@
     "list.errorForeground": "#cf7c7c",
     "list.focusBackground": "#77574391",
     "list.focusForeground": "#aca490",
+    "list.highlightForeground": "#de7e50",
     "list.hoverBackground": "#2e2e2ec4",
     "list.inactiveFocusBackground": "#3f312891",
     "list.inactiveSelectionBackground": "#3f312891",
@@ -105,7 +108,7 @@
     "panelTitle.activeBorder": "#b35118d8",
     "panelTitle.activeForeground": "#aca490",
     // Quick Open Menu Group (gosh this took a while to find)
-    "pickerGroup.foreground": "#d3723bd8",
+    "pickerGroup.foreground": "#de7e50",
     // Problems Error Icon
     "problemsErrorIcon.foreground": "#cf7c7c",
     "problemsWarningIcon.foreground": "#d39a69",
@@ -170,7 +173,7 @@
     // Terminal
     "terminal.selectionBackground": "#6d65616c",
     "terminal.foreground": "#aca490",
-    "terminal.ansiBlack": "#6d6d6d",
+    "terminal.ansiBlack": "#3a3a3a",
     "terminal.ansiBlue": "#4975af",
     "terminal.ansiGreen": "#53ab62",
     "terminal.ansiCyan": "#3a9c93",
