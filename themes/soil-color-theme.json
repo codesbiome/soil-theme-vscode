@@ -33,6 +33,8 @@
     "editorBracketMatch.background": "#363636",
     // Editor Cursor
     "editorCursor.foreground": "#ffb300da",
+    // Editor Error
+    "editorError.foreground": "#cf7c7c",
     // Editor Group
     "editorGroup.dropBackground": "#3c38369f",
     // Editor Group Header
@@ -46,6 +48,8 @@
     // Editor Line Number
     "editorLineNumber.activeForeground": "#7fac38",
     "editorLineNumber.foreground": "#928a83a2",
+    // Editor Overview (Scrollbar)
+    "editorOverviewRuler.errorForeground": "#8a4848",
     // Editor Suggest Widget
     "editorSuggestWidget.background": "#1c1c1c",
     "editorSuggestWidget.border": "#2e2e2e",
@@ -59,10 +63,12 @@
     // List (Explorer)
     "list.activeSelectionBackground": "#3f312891",
     "list.activeSelectionForeground": "#aca490",
+    "list.errorForeground": "#cf7c7c",
     "list.inactiveFocusBackground": "#3f312891",
     "list.inactiveSelectionBackground": "#3f312891",
     "list.inactiveSelectionForeground": "#aca490",
     "list.hoverBackground": "#2e2e2ec4",
+    "list.warningForeground": "#d39a69",
     // Menu
     "menu.background": "#181818",
     "menu.border": "#2e2e2e",
@@ -71,6 +77,7 @@
     "menu.selectionForeground": "#aca490",
     "menu.separatorBackground": "#333333",
     // Mini Map
+    "minimap.errorHighlight": "#8a4848",
     "minimap.selectionHighlight": "#8f503d71",
     // Mini Map Slider
     "minimapSlider.background": "#5d3c2b5d",
@@ -83,6 +90,9 @@
     "panelTitle.activeForeground": "#aca490",
     // Quick Open Menu Group (gosh this took a while to find)
     "pickerGroup.foreground": "#d3723bd8",
+    // Problems Error Icon
+    "problemsErrorIcon.foreground": "#cf7c7c",
+    "problemsWarningIcon.foreground": "#d39a69",
     // Scroll Bar
     "scrollbar.shadow": "#111111b2",
     // Scroll Bar Slider
@@ -118,14 +128,22 @@
     "statusBarItem.hoverBackground": "#2e2e2e",
     "statusBarItem.activeBackground": "#353535",
     // Symbol Icons
-    "symbolIcon.functionForeground": "#cf7c7c",
-    "symbolIcon.methodForeground": "#c1a860",
-    "symbolIcon.variableForeground": "#92b4b1",
-    "symbolIcon.constantForeground": "#cf7c7c",
+    "symbolIcon.arrayForeground": "#9c9c9c",
+    "symbolIcon.booleanForeground": "#cf7c7c",
     "symbolIcon.classForeground": "#59ae8b",
+    "symbolIcon.constantForeground": "#cf7c7c",
+    "symbolIcon.constructorForeground": "#d39a69",
     "symbolIcon.fieldForeground": "#92b4b1",
-    "symbolIcon.propertyForeground": "#92b4b1",
+    "symbolIcon.functionForeground": "#c1a860",
     "symbolIcon.interfaceForeground": "#3a9c93",
+    "symbolIcon.methodForeground": "#c1a860",
+    "symbolIcon.moduleForeground": "#9c9c9c",
+    "symbolIcon.namespaceForeground": "#d39a69",
+    "symbolIcon.numberForeground": "#cf7c7c",
+    "symbolIcon.objectForeground": "#cf7c9f",
+    "symbolIcon.propertyForeground": "#92b4b1",
+    "symbolIcon.stringForeground": "#53ab62",
+    "symbolIcon.variableForeground": "#92b4b1",
     // Tab
     "tab.activeBackground": "#2e2e2e",
     "tab.activeForeground": "#b6b5b4",
@@ -164,6 +182,10 @@
     "titleBar.inactiveForeground": "#d3cac1a8",
     // Widget
     "widget.shadow": "#111111b2",
+
+    //"inputValidation.errorForeground": "#ceabab",
+    //"errorForeground": "#ff0000",
+    "debugConsole.errorForeground": "#ff0000",
 
     // Other Globals
     "foreground": "#aca490d3",
