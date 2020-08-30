@@ -19,7 +19,7 @@
     "breadcrumb.background": "#2e2e2e",
     // Button
     "button.background": "#b35118d8",
-    "button.foreground": "#ffffffbe",
+    "button.foreground": "#ffffffe3",
     // Dropdown
     "dropdown.foreground": "#aca490",
     "dropdown.background": "#181818",
