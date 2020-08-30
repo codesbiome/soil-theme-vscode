@@ -69,9 +69,9 @@
     // Scroll Bar
     "scrollbar.shadow": "#111111b2",
     // Scroll Bar Slider
-    "scrollbarSlider.background": "#5d3c2b5d",
-    "scrollbarSlider.hoverBackground": "#5f3a287e",
-    "scrollbarSlider.activeBackground": "#7540257e",
+    "scrollbarSlider.background": "#6d46335d",
+    "scrollbarSlider.hoverBackground": "#6d442c8c",
+    "scrollbarSlider.activeBackground": "#b351188c",
     // Status Bar
     "statusBar.background": "#1e1e1e", // 1e1e1e
     "statusBar.foreground": "#bbb8b896", // bbb8b896
@@ -116,6 +116,8 @@
     "terminal.ansiBrightMagenta": "#df6a9a",
     "terminal.ansiBrightYellow": "#d39a69",
     "terminal.ansiBrightWhite": "#c0b699",
+    // Terminal Cursor
+    "terminalCursor.foreground": "#ffb300da",
     // Title Bar
     "titleBar.activeBackground": "#181818",
     "titleBar.activeForeground": "#d3cac1a8",
