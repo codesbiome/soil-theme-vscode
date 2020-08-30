@@ -53,6 +53,13 @@
     "list.inactiveSelectionBackground": "#3f312891",
     "list.inactiveSelectionForeground": "#aca490",
     "list.hoverBackground": "#2e2e2ec4",
+    // Menu
+    "menu.background": "#181818",
+    "menu.border": "#2e2e2e",
+    "menu.foreground": "#d3cac1a8",
+    "menu.selectionBackground": "#3f312891",
+    "menu.selectionForeground": "#aca490",
+    "menu.separatorBackground": "#333333",
     // Mini Map
     "minimap.selectionHighlight": "#8f503d71",
     // Mini Map Slider
