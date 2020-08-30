@@ -71,8 +71,8 @@
     "gitDecoration.conflictingResourceForeground": "#df6a9bf1",
     "gitDecoration.submoduleResourceForeground": "#699bdb",
     // Input
-    "input.background": "#3b3b3b",
-    "input.foreground": "#b8b8b8",
+    "input.background": "#181818",
+    "input.foreground": "#aca490",
     "input.placeholderForeground": "#b8b8b89b",
     // List (Explorer)
     "list.activeSelectionBackground": "#3f312891",
@@ -254,7 +254,7 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#cf7c7c"
+        "foreground": "#e3798b"
       }
     },
     // Custom Color Changes
@@ -279,7 +279,7 @@
         "meta.tag.metadata.doctype entity.name.tag"
       ],
       "settings": {
-        "foreground": "#dc7a7a"
+        "foreground": "#3a9c93"
       }
     },
     {
@@ -304,7 +304,8 @@
         "storage.modifier",
         "support.function",
         "keyword.other",
-        "source.css keyword.operator.logical"
+        "source.css keyword.operator.logical",
+        "keyword.operator.expression.typeof"
       ],
       "settings": {
         "foreground": "#cf7c9f"
