@@ -726,10 +726,7 @@
     },
     {
       "name": "Markdown - Markup Raw Inline",
-      "scope": [
-        "text.html.markdown markup.inline.raw.markdown",
-        "markup.inline.raw.string"
-      ],
+      "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
         "foreground": "#cf7c9f"
       }
@@ -749,7 +746,8 @@
       "scope": [
         "markdown.heading",
         "markup.heading | markup.heading entity.name",
-        "markup.heading.markdown punctuation.definition.heading.markdown"
+        "markup.heading.markdown punctuation.definition.heading.markdown",
+        "markup.inline.raw.string"
       ],
       "settings": {
         "foreground": "#c1a860"
@@ -805,7 +803,7 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic"
+        "foreground": "#cf7c9f"
       }
     },
     {
