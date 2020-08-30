@@ -185,10 +185,6 @@
     // Widget
     "widget.shadow": "#111111b2",
 
-    //"inputValidation.errorForeground": "#ceabab",
-    //"errorForeground": "#ff0000",
-    "debugConsole.errorForeground": "#ff0000",
-
     // Other Globals
     "foreground": "#aca490d3",
     "focusBorder": "#2e2e2e00",
