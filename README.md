@@ -5,14 +5,14 @@
 
 <br />
 
-<img src="assets/s1.png" />
+<img src="assets/scr1.png" />
 
 <br />
 
 <details>
   <summary>Screenshot 2</summary>
   <br />
-  <img src="assets/s2.png" />
+  <img src="assets/scr2.png" />
 </details>
 
 <br />
