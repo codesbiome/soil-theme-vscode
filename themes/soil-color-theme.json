@@ -155,6 +155,7 @@
     // Status Bar
     "statusBar.background": "#1e1e1e", // 1e1e1e
     "statusBar.foreground": "#bbb8b896", // bbb8b896
+    "statusBar.noFolderBackground" : "#1e1e1e",
     "statusBar.debuggingBackground": "#b32f18d8",
     "statusBar.debuggingForeground": "#ccb6b6ef",
     // Status Bar Item
