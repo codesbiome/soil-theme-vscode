@@ -2,6 +2,10 @@
 
 All notable changes to the "soil-theme-vscode" extension.
 
+### 1.0.1
+
+- Statusbar color fixed when no folder/workspace
+
 ### 1.0.0
 
 - Activity bar colors
