@@ -1,6 +1,6 @@
 {
   "scopeName": "keyword.operator.logical",
-  "injectionSelector": "L:source.php -comment -string logical.operator",
+  "injectionSelector": "L:source.php -comment -string -string.quoted logical.operator",
   "patterns": [
     {
       "include": "#keyword-operator-logical"
