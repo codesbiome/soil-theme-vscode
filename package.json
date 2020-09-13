@@ -50,7 +50,7 @@
         "label": "Soil Theme (monokai)",
         "uiTheme": "vs-dark",
         "path": "./themes/soil-monokai-color-theme.json"
-    }
+      }
     ]
   }
 }
