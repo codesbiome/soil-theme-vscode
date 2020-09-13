@@ -45,7 +45,12 @@
         "label": "Soil Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/soil-color-theme.json"
-      }
+      },
+      {
+        "label": "Soil Theme (monokai)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soil-monokai-color-theme.json"
+    }
     ]
   }
 }
