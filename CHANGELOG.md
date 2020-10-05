@@ -2,6 +2,12 @@
 
 All notable changes to the "soil-theme-vscode" extension.
 
+### 1.1.0
+
+- Added Sub-theme with Monokai color scheme
+- Fix 'as' keyword color glitch
+- Update input selection background color
+
 ### 1.0.1
 
 - Statusbar color fixed when no folder/workspace
