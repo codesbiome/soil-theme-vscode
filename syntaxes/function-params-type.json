@@ -8,7 +8,7 @@
   ],
   "repository": {
     "function-parameter-type": {
-      "match": "(boolean|bool|byte|char|double|float|int|long|short|string|void)",
+      "match": "(boolean|bool|byte|char|double|float|integer|int|long|short|string|void)",
       "name": "function.parameter.type.soil"
     }
   }
