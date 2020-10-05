@@ -2,7 +2,7 @@
   "name": "soil-theme-vscode",
   "displayName": "Soil Theme",
   "description": "A relaxing theme for Visual Studio Code to put crazy ideas into existence",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "codesbiome",
   "icon": "assets/logo.png",
   "repository": {
