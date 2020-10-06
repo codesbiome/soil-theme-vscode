@@ -28,9 +28,9 @@
     // Editor
     "editor.background": "#222222",
     "editor.foreground": "#aca490",
-    "editor.inactiveSelectionBackground": "#3c3836b6",
+    "editor.inactiveSelectionBackground": "#b3511848",
     "editor.lineHighlightBackground": "#2c2c2c",
-    "editor.selectionBackground": "#3c38369f",
+    "editor.selectionBackground": "#b3511860",
     "editor.selectionHighlightBackground": "#8f503d46",
     "editor.wordHighlightBackground": "#3c38369f",
     // Editor Bracket Match
