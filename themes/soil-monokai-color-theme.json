@@ -28,9 +28,9 @@
     // Editor
     "editor.background": "#222222",
     "editor.foreground": "#aca490",
-    "editor.inactiveSelectionBackground": "#3c3836b6",
+    "editor.inactiveSelectionBackground": "#b3511848",
     "editor.lineHighlightBackground": "#2c2c2c",
-    "editor.selectionBackground": "#3c38369f",
+    "editor.selectionBackground": "#b3511860",
     "editor.selectionHighlightBackground": "#8f503d46",
     "editor.wordHighlightBackground": "#3c38369f",
     // Editor Bracket Match
@@ -155,7 +155,7 @@
     // Status Bar
     "statusBar.background": "#1e1e1e", // 1e1e1e
     "statusBar.foreground": "#bbb8b896", // bbb8b896
-    "statusBar.noFolderBackground": "#1e1e1e",
+    "statusBar.noFolderBackground" : "#1e1e1e",
     "statusBar.debuggingBackground": "#b32f18d8",
     "statusBar.debuggingForeground": "#ccb6b6ef",
     // Status Bar Item
@@ -222,7 +222,7 @@
     // Other Globals
     "foreground": "#aca490d3",
     "focusBorder": "#2e2e2e00",
-    "selection.background": "#232733",
+    "selection.background": "#af4f17a1",
     "gitDecoration.ignoredResourceForeground": "#aca4907a"
   },
   "tokenColors": [
