@@ -21,6 +21,7 @@
 
 - `HTML`
 - `CSS`
+- `SCSS (SASS)`
 - `JavaScript`
 - `TypeScript`
 - `JSX (React)`
