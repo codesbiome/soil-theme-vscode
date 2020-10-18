@@ -2,6 +2,12 @@
 
 All notable changes to the "soil-theme-vscode" extension.
 
+### 1.1.2
+
+- Update input selection background color (Subtheme Monokai)
+- Add sass/scss language support
+- Add sass related color changes
+
 ### 1.1.1
 
 - Textbox selection background color fix
