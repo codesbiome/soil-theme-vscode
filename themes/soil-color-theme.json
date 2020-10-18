@@ -308,7 +308,8 @@
         "keyword.operator.heredoc",
         "constant.other.color.rgb-value.hex",
         "variable.other.property",
-        "meta.return.type entity.name"
+        "meta.return.type entity.name",
+        "variable.scss"
       ],
       "settings": {
         "foreground": "#3a9c93"
@@ -452,7 +453,9 @@
         "markup.heading",
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-        "punctuation.definition.string"
+        "punctuation.definition.string",
+        "entity.other.attribute-name.placeholder",
+        "meta.attribute-selector"
       ],
       "settings": {
         "foreground": "#53ab62"
@@ -559,7 +562,7 @@
     },
     {
       "name": "CSS Classes",
-      "scope": ["entity.other.attribute-name.class"],
+      "scope": ["entity.other.attribute-name.class", "punctuation.definition.entity"],
       "settings": {
         "foreground": "#59ae8b"
       }
