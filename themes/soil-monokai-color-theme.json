@@ -123,6 +123,7 @@
     "peekViewTitleLabel.foreground": "#aca490",
     // Quick Open Menu Group (gosh this took a while to find)
     "pickerGroup.foreground": "#de7e50",
+    "quickInput.list.focusBackground": "#b35118d8",
     // Problems Error Icon
     "problemsErrorIcon.foreground": "#cf7c7c",
     "problemsWarningIcon.foreground": "#d39a69",
