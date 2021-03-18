@@ -156,7 +156,7 @@
     // Status Bar
     "statusBar.background": "#1e1e1e", // 1e1e1e
     "statusBar.foreground": "#bbb8b896", // bbb8b896
-    "statusBar.noFolderBackground" : "#1e1e1e",
+    "statusBar.noFolderBackground": "#1e1e1e",
     "statusBar.debuggingBackground": "#b32f18d8",
     "statusBar.debuggingForeground": "#ccb6b6ef",
     // Status Bar Item
@@ -252,6 +252,13 @@
       }
     },
     {
+      "name": "Custom Object",
+      "scope": ["variable.other.object.cs"],
+      "settings": {
+        "foreground": "#83b364",
+      }
+    },
+    {
       "name": "Variables",
       "scope": [
         "variable",
@@ -310,7 +317,8 @@
         "constant.other.color.rgb-value.hex",
         "variable.other.property",
         "meta.return.type entity.name",
-        "variable.scss"
+        "variable.scss",
+        "variable.other.object.property.cs"
       ],
       "settings": {
         "foreground": "#3a9c93"
@@ -563,7 +571,10 @@
     },
     {
       "name": "CSS Classes",
-      "scope": ["entity.other.attribute-name.class", "punctuation.definition.entity"],
+      "scope": [
+        "entity.other.attribute-name.class",
+        "punctuation.definition.entity"
+      ],
       "settings": {
         "foreground": "#59ae8b"
       }
