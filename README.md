@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="assets/scr1.png" />
+<img src="assets/sneak.png" />
 
 <br />
 
