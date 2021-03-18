@@ -819,7 +819,7 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "foreground": "#cf7c9f"
+        "foreground": "#ACA490"
       }
     },
     {
