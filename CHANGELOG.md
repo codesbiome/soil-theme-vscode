@@ -2,6 +2,13 @@
 
 All notable changes to the "soil-theme-vscode" extension.
 
+### 1.1.3
+
+- Fix quick menu item selected background color
+- Fix C# syntax colors
+- Fix Markup quote text colors
+- Editor Line number foreground color updated
+
 ### 1.1.2
 
 - Update input selection background color (Subtheme Monokai)
