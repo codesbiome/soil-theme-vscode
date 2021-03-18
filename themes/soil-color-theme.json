@@ -53,7 +53,7 @@
     "editorIndentGuide.activeBackground": "#423f3b",
     "editorIndentGuide.background": "#2e2d2d",
     // Editor Line Number
-    "editorLineNumber.activeForeground": "#7fac38",
+    "editorLineNumber.activeForeground": "#de7e50",
     "editorLineNumber.foreground": "#928a83a2",
     // Editor Link
     "editorLink.activeForeground": "#3a9c93",
