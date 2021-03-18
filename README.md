@@ -4,33 +4,35 @@
 > This theme provides easy to read interface for dim-light environments (night).
 
 <br />
-
-<img src="assets/sneak.png" />
-
-<br />
+<img src="assets/soil.png" />
 
 <details>
-  <summary>Screenshot 2</summary>
+  <summary>Show Monokai Syntax Colors</summary>
   <br />
-  <img src="assets/scr2.png" />
+  <img src="assets/soil-monokai.png" />
 </details>
 
 <br />
 
 ### Supported Languages 🎉
 
+- `C / C++`
+- `C#`
+- `JAVA`
 - `HTML`
 - `CSS`
-- `SCSS (SASS)`
+- `SCSS / SASS`
+- `LESS`
 - `JavaScript`
 - `TypeScript`
-- `JSX (React)`
-- `XML (XAML/YAML)`
+- `JSX / TSX`
+- `XML / XAML / YAML`
 - `Markdown`
 - `JSON`
-- `YAML`
+- `Markdown`
+- `Flutter`
+- `Dart`
 - `PHP`
-- `More upcoming....`
 
 <br>
 
@@ -55,4 +57,5 @@ If you're using Windows 10, these settings of `Editor` might provide you a bette
 ### Issue or Requests
 
 Found any 🐛 bug/glitch or have a request related to this project? Feel free to submit `Issue` at respository <a href="https://github.com/codesbiome/soil-theme-vscode/issues">here</a>.
+<br>
 Cheers 🍻
