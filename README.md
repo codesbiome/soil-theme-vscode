@@ -1,7 +1,8 @@
 # Soil Theme
 
-> A relaxing dark theme for `Visual Studio Code` with simple colors for the Editor Interface.
-> This theme provides easy to read interface for dim-light environments (night).
+A relaxing dark theme for `Visual Studio Code` with simple colors for the Editor Interface, it also provides easy to read interface for dim-light environments (night).
+
+Install from Marketplace : https://marketplace.visualstudio.com/items?itemName=codesbiome.soil-theme-vscode
 
 <br />
 <img src="assets/soil.png" />
